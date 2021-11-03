@@ -1,0 +1,5 @@
+
+./sync
+git clone https://github.com/MiCode/Xiaomi_Kernel_OpenSource.git -b cannon-r-oss  --single-branch --depth 1 device/xiaomi/cannon
+git clone https://github.com/StatiXOS/android_vendor_xiaomi_cannon --depth 1 vendor/xiaomi/cannon
+
